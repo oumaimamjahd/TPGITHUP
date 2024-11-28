@@ -1,2 +1,2 @@
 # TPGITHUP
-initialisation du projet
+initialisation du projet :mjahd,dallal,taoussi
